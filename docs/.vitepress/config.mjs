@@ -6,8 +6,22 @@ export default defineConfig({
     base: "/PM-SCALcetto/",
     themeConfig: {
         sidebar: [
-            { text: "Introduzione", link: "/introduzione" },
-            { text: "Report", link: "/report" }
+            { 
+                text: "Report", 
+                items: [
+                    { text: "Contesto", link: "/introduzione" },
+                    { text: "Scoping", link: "/introduzione" },
+                    { text: "Planning", link: "/introduzione" },
+                    { text: "Launching/Execution", link: "/introduzione" },
+                    { text: "Monitoring e Controlling", link: "/introduzione" },
+                    { text: "Closing", link: "/introduzione" }
+                ]
+            },
+            {
+                text: "Allegati",
+                items: [
+                ]
+            }    
         ]
     }
 })
