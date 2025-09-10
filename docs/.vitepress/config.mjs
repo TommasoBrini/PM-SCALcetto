@@ -9,7 +9,7 @@ export default defineConfig({
             { 
                 text: "Report", 
                 items: [
-                    { text: "Contesto", link: "/introduzione" },
+                    { text: "Introduzione", link: "/introduzione" },
                     { text: "Scoping", link: "/scoping" },
                     { text: "Planning", link: "/planning" },
                     { text: "Launching/Execution", link: "/launching-execution" },
