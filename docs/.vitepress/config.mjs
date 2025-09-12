@@ -9,16 +9,18 @@ export default defineConfig({
             { 
                 text: "Report", 
                 items: [
-                    { text: "Scoping", link: "/scoping" },
-                    { text: "Planning", link: "/planning" },
-                    { text: "Launching/Execution", link: "/launching-execution" },
-                    { text: "Monitoring e Controlling", link: "/monitoring-controlling" },
-                    { text: "Closing", link: "/closing" }
+                    { text: "Scoping", link: "/01-scoping" },
+                    { text: "Planning", link: "/02-planning" },
+                    { text: "Launching/Execution", link: "/03-launching-execution" },
+                    { text: "Monitoring e Controlling", link: "/04-monitoring-controlling" },
+                    { text: "Closing", link: "/05-closing" }
                 ]
             },
             {
                 text: "Allegati",
                 items: [
+                    { text: "Market Analysis", link: "/allegati/01-MarketAnalysis" },
+                    { text: "CoS", link: "/allegati/02-CoS" },
                 ]
             }    
         ]
