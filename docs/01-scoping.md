@@ -78,7 +78,7 @@ I partecipanti hanno lavorato in modalità collaborativa per decomporre il prodo
 Durante la riunione sono state identificate e discusse le principali incertezze tecniche e organizzative, predisponendo il registro rischi e la matrice SWOT come supporto decisionale.
 
 ### Scopo
-Il secondo meeting è stato dedicato alla traduzione degli allineamenti iniziali in elementi operativi: è stata redatta una prima bozza del Project Overview Statement, che sintetizza problema e opportunità, goal, obiettivi di alto livello e criteri di successo coerenti con le [Condictions of Satisfaction](/docs/allegati/02-CoS.md). 
+Il secondo meeting è stato dedicato alla traduzione degli allineamenti iniziali in elementi operativi: è stata redatta una prima bozza del Project Overview Statement, che sintetizza problema e opportunità, goal, obiettivi di alto livello e criteri di successo coerenti con le [Condictions of Satisfaction](/docs/allegati/03-CoS.md). 
 Subito dopo il team ha analizzato i requisiti e ne ha derivato la Requirements Breakdown Structure. La sessione ha inoltre inquadrato in modo sistematico le incertezze del progetto: sono stati identificati i principali rischi tecnici, organizzativi e di prodotto, stimandone probabilità e impatto. E' stata infine costruita una matrice SWOT che sintetizza punti di forza e debolezza interni, nonché opportunità e minacce esterne, fungendo da base per le decisioni del meeting successivo.
 
 ### Partecipanti
