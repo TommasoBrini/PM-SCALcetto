@@ -66,18 +66,59 @@ La proposta progettuale è stata quindi presentata al docente di riferimento, pr
 
 ### Deliverables
 - [Market Analysis](allegati/01-MarketAnalysis.md)
-- [Conditions of Satisfaction](allegati/02-CoS.md#cos)
-
-
+- [Desideri e Bisogni](allegati/02-StatoProgetto.md#desideri-e-bisogni)
+- [Stato del Progetto](allegati/02-StatoProgetto.md#stato-del-progetto)
+- [Conditions of Satisfaction](allegati/03-CoS.md)
+ 
 
 ## Meeting II
+In data 02/06 si è tenuto il secondo meeting del progetto, finalizzato a passare alla definizione operativa dello scopemediante la modellazione collaborativa dei requisiti e l’analisi dei rischi a supporto delle decisioni successive.
+La sessione è stata facilitata dal project manager Tommaso Brini, che ha richiamato le decisioni del [Meeting 1](01-scoping#meeting-i), quali scopo condiviso, CoS, indicazioni del docente. 
+I partecipanti hanno lavorato in modalità collaborativa per decomporre il prodotto in funzionalità, costruendo una vista condivisa dei processi chiave da cui è stata derivata la Requirements Breakdown Structure, raccogliendo le informazioni necessari alla successiva fase del progetto. 
+Durante la riunione sono state identificate e discusse le principali incertezze tecniche e organizzative, predisponendo il registro rischi e la matrice SWOT come supporto decisionale.
+
 ### Scopo
+Il secondo meeting è stato dedicato alla traduzione degli allineamenti iniziali in elementi operativi: è stata redatta una prima bozza del Project Overview Statement, che sintetizza problema e opportunità, goal, obiettivi di alto livello e criteri di successo coerenti con le [Condictions of Satisfaction](/docs/allegati/02-CoS.md). 
+Subito dopo il team ha analizzato i requisiti e ne ha derivato la Requirements Breakdown Structure. La sessione ha inoltre inquadrato in modo sistematico le incertezze del progetto: sono stati identificati i principali rischi tecnici, organizzativi e di prodotto, stimandone probabilità e impatto. E' stata infine costruita una matrice SWOT che sintetizza punti di forza e debolezza interni, nonché opportunità e minacce esterne, fungendo da base per le decisioni del meeting successivo.
+
 ### Partecipanti
+
+| Partecipante  | Ruolo |
+| ------------  | ----- |
+| Brini Tommaso | Project Manager <br> Team Member |
+| Samite Mounir | Team Member |
+| Rattini Emiliano | Team Member |
+
 ### Agenda
+- Introduzione del project manager
+- Analisi requisiti
+- Redazione bozza POS
+- Redazione RBS
+- Analisi dei rischi
+- Matrice SWOT
+- Allineamento finale
+
 ### Deliverables
+- [POS](allegati/04-POS.md)
+- [RBS](allegati/05-RBS.md)
+- [Risk Analysis](allegati/06-RiskAnalysis.md)
+- [Matrice SWOT](allegati/06-RiskAnalysis.md#SWOT)
 
 ## Meeting III
-### Scopo
-### Partecipanti
-### Agenda
+In data 05/06 si è tenuto il terzo e ultimo meeting di scoping, focalizzato sulla scelta del modello di ciclo di vita e sulla definizione dell’assetto organizzativo per l’esecuzione del progetto sulla base degli esiti del Meeting II.
+Considerato che i requisiti, pur definiti a un livello sufficiente per procedere, non sono considerati fissi e immutabili fin dall'inizio e soprattutto che l'obiettivo del prodotto è destinato a precisarsi attraverso aggiunte funzionali progressive, il gruppo ha deliberato l'adozione del modello Agile come PMLC, basandosi su rilascio incrementale di valore e feedback frequenti. 
+Coerentemente con tale scelta, sono stati assegnati i ruoli Scrum e definite le regole di ingaggio.
+
+| Partecipante     | Ruolo         | Competenze |
+| ------------     | -----         | ---------- |
+| Brini Tommaso    | Product Owner <br> Dev Team | • Gestione stakeholder <br> • Prioritizzazione backlog <br> • Accettazione incrementi |
+| Samite Mounir    | SCRUM Master <br> DevTeam  | • Facilitazione meeting <br> • Coaching Team <br> • Gestore dei timesheet         |
+| Rattini Emiliano | Stakeholder <br> DevTeam   | • Richiede funzionalità <br> • Test e verifica criteri di accettazione <br> • Feedback su UX |
+
+Dato il carattere universitario del progetto, i ruoli assegnati ai membri del gruppo sono da intendersi come riferimento organizzativo: ogni studente potrà ricoprire, quando necessario, le diverse responsabilità previste dal framework, e tutti e tre i componenti fanno parte del Development Team
+
+A valle della selezione del PMLC Agile e dell'assegnazione dei ruoli SCRUM, il gruppo ha riesaminato i deliverable prodotti nei meeting precedenti, introducendo gli accorgimenti opportuni. Tutti i deliverable risultano approvati e lo scoping è formalmente chiuso; il team è autorizzato a procedere con la pianificazione operativa e l'avvio delle prime iterazioni.
+
 ### Deliverables
+- [POS](allegati/04-POS.md)
+- [Conditions of Satisfaction](allegati/03-CoS.md)

@@ -20,7 +20,11 @@ export default defineConfig({
                 text: "Allegati",
                 items: [
                     { text: "Market Analysis", link: "/allegati/01-MarketAnalysis" },
-                    { text: "CoS", link: "/allegati/02-CoS" },
+                    { text: "Stato Progetto", link: "/allegati/02-StatoProgetto" },
+                    { text: "Conditions of Satisfaction", link: "/allegati/03-CoS" },
+                    { text: "POS", link: "/allegati/04-POS" },
+                    { text: "RBS", link: "/allegati/05-RBS" },
+                    { text: "Risk Analysis", link: "/allegati/06-RiskAnalysis" },
                 ]
             }    
         ]
