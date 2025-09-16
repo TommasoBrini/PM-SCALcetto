@@ -8,10 +8,13 @@ Il perimetro è coerente con i vincoli accademici di tempo e tecnologia, rendend
 Rilasciare in 2 mesi una prima versione funzionante che permetta di simulare partite di Serie A/B con output probabilistici chiari su statistiche selezionate e garantendo una esperienza d'uso semplice, fluida e immediata.
 
 ## Obiettivi
-- Organizzare e configurare i workspace con build tool adeguato e pipeline CI attiva: build, test e analisi automatizzati su ogni commit; generazione jar e automatic release su tag
+- Sviluppare un'interfaccia web facilmente utilizzabile, con focus su user experience.
+- Sviluppare un simulatore che fornisca analisi del match con esito 1X2, configurando formazione e modulo.
+- Mantenere dataset aggiornato settimanalmente, con periodo di forma e storico recente delle squadre.
+- Fornire un layer grafico per visualizzare la simulazione divertente e interattivo.
+- Organizzare e configurare i workspace con build tool adeguato e pipeline CI attiva: build e test automatizzati su ogni commit; generazione jar e automatic release su tag
 - Implementare il core in Scala in stile funzionale, adottando immutabilità, funzioni pure e composizione; integrare una componente Prolog per la logica dedicata, con test di integrazione
-- Fornire simulazione del match con esiti 1X2, formazione, modulo, condizione, fattore campo e dataset aggiornato settimanalmente.
-- Garantire prestazioni percepite fluide e comprensione massima dei risultati
+- Garantire prestazioni percepite fluide e comprensione massima degli output
 
 ## Acceptance Criteria
 - Release installabile e valida entro 17/07/2025
