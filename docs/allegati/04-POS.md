@@ -5,12 +5,12 @@ Una breve analisi di mercato ha riscontrato l'esistenza di uno spazio per un sim
 Il perimetro è coerente con i vincoli accademici di tempo e tecnologia, rendendo realistico un rilascio iniziale credibile e utile.
 
 ## Scopo del progetto
-Rilasciare in 2 mesi una prima versione funzionante che consenta di valutare moduli, principi di gioco e varianti tattiche in specifiche situazioni, configurando formazione, ruoli e contesto avversario, con visualizzazioni chiare e interattive
-(**Premium**) Simulazione rapida: possibilità di simulare partite di Serie A e di Serie B reali selezionando le squadre dal database aggiornato, con esito 1X2.
+Rilasciare in 2 mesi una prima versione funzionante che consenta di valutare moduli, principi di gioco e varianti tattiche in specifiche situazioni, configurando formazione, ruoli e contesto avversario, con visualizzazioni chiare e interattive.
+<br>(**Premium**) Simulazione rapida: possibilità di simulare partite di Serie A e di Serie B reali selezionando le squadre dal database aggiornato, con esito 1X2.
 
 ## Obiettivi
 - Sviluppare un'interfaccia web facilmente utilizzabile, con focus su user experience.
-- Sviluppare un simulatore che fornisca analisi del match, configurando formazione e modulo.
+- Sviluppare un simulatore che fornisca analisi tattica per fasi e situazioni, configurando formazione e modulo.
 - Fornire un layer grafico per visualizzare la simulazione divertente e interattivo.
 - Organizzare e configurare i workspace con build tool adeguato e pipeline CI attiva: build e test automatizzati su ogni commit; generazione jar e semantic release su tag
 - Implementare il core in Scala in stile funzionale, adottando immutabilità, funzioni pure e composizione; integrare una componente Prolog per la logica dedicata, con test di integrazione

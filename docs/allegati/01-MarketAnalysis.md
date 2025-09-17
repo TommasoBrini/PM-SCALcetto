@@ -7,6 +7,7 @@ Si procede con una breve analisi di mercato a supporto di un'eventuale pubblicaz
 - Creator e analyst professionisti: quasi 2 milioni di account attivi di utenti che producono contenuti calcistiche sui social.
 
 ### Concorrenza
+- Strumenti di match e tactical analysis.
 - App statistiche/risultati: copertura ottima dei dati ma bassa interattività simulazionale
 - App pronostici: forniscono quote ma non offrono simulazioni trasparenti nè editor di simulazioni
 
@@ -23,14 +24,14 @@ Si procede con una breve analisi di mercato a supporto di un'eventuale pubblicaz
 ## Funzionalità
 - Simulazione match
     - Scenario: formazione titolare, modulo, condizione, fattore campo ecc...
-    - Motore probabilistico con migliaia di run rapide.
+    - (**PREMIUM**) Motore probabilistico con migliaia di run rapide.
 - Simulazione situazioni specifiche
     - Corner, calci di punizione, dinamiche di gioco.
     - Basato su moduli, stile di marcatura, stile di gioco.
 - Output probabilistici
     - Scelta migliore in una determinata situazione.
     - Expected goals di squadra dato il modulo, lo stile di gioco e altri parametri di configurazione.
-    - Esiti 1X2 sulla base di moduli e tattiche
+    - (**PREMIUM**) Esiti 1X2 sulla base di moduli e tattiche
 - Database aggiornato su Serie A e B
     - Rose ufficiali Serie A e B, ruoli, storico recente per squadra (stato di forma), infortuni/squalifiche
     - Update settimanali

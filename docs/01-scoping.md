@@ -30,7 +30,7 @@ Nel caso di SCALcetto, la fase iniziale di scoping è stata suddivisa in tre mee
 
 | #         | Titolo                                       | Obiettivi   | Deliverables|
 | ----------| ---------------------------------------------| ------------ | ----------|
-| Meeting I | Fondamenta del progetto                      | • Stabilire la visione del progetto identificando lo scopo, gli obiettivi e le opportunità <br> • Analizzare il mercato e i potenziali utenti <br> • Conduction Condiction of Satisfactions | • Market Analysis <br> • Condiction of Satisfactions |
+| Meeting I | Fondamenta del progetto                      | • Stabilire la visione del progetto identificando lo scopo, gli obiettivi e le opportunità <br> • Analizzare il mercato e i potenziali utenti <br> • Conduction Condition of Satisfactions | • Market Analysis <br> • Condition of Satisfactions |
 | Meeting II | Struttura e analisi | • Scrivere il Project Overview Statement <br> • Analizzare i requisiti con la Requirement Breakdown Structure <br> • Analisi dei rischi e opportunità con analisi SWOT | • POS <br> • BRS <br> • SWOT| 
 | Meeting III | Scelte metodologiche e organizzative | • Scegliere il PMLC più adatto <br> • Definire e assegnare i ruoli <br> • Analizzare e approvare il POS | • Decisione motivata sul PMLC <br> • SCRUM roles|
 
@@ -78,7 +78,7 @@ I partecipanti hanno lavorato in modalità collaborativa per decomporre il prodo
 Durante la riunione sono state identificate e discusse le principali incertezze tecniche e organizzative, predisponendo il registro rischi e la matrice SWOT come supporto decisionale.
 
 ### Scopo
-Il secondo meeting è stato dedicato alla traduzione degli allineamenti iniziali in elementi operativi: è stata redatta una prima bozza del Project Overview Statement, che sintetizza problema e opportunità, goal, obiettivi di alto livello e criteri di successo coerenti con le [Condictions of Satisfaction](allegati/03-CoS.md). 
+Il secondo meeting è stato dedicato alla traduzione degli allineamenti iniziali in elementi operativi: è stata redatta una prima bozza del Project Overview Statement, che sintetizza problema e opportunità, goal, obiettivi di alto livello e criteri di successo coerenti con le [Conditions of Satisfaction](allegati/03-CoS.md). 
 Subito dopo il team ha analizzato i requisiti e ne ha derivato la Requirements Breakdown Structure. La sessione ha inoltre inquadrato in modo sistematico le incertezze del progetto: sono stati identificati i principali rischi tecnici, organizzativi e di prodotto, stimandone probabilità e impatto. E' stata infine costruita una matrice SWOT che sintetizza punti di forza e debolezza interni, nonché opportunità e minacce esterne, fungendo da base per le decisioni del meeting successivo.
 
 ### Partecipanti
