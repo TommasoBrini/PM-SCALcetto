@@ -1,6 +1,7 @@
 ## Desideri e Bisogni
 ### Desideri
 - Simulatore credibile per Serie A e Serie B
+- 2 aree principali: la prima per la simulazione rapida, che produrrà velocemente un output 1X2 sulla base di mille run. La seconda per la simulazione della partita, in cui sarà possibile vedere in maniera stilizzata la simulazione della singola partita.
 - Output delle simulazioni comprensibili anche a non addetti ai lavori.
 - Esperienza rapida: simulazioni veloci
 - Editor di scenario intuitivo per esperimenti e cambi di variabili
@@ -13,7 +14,7 @@
 - Dati affidabili e aggiornati settimanalmente su rose, ruoli, minutaggi, forma, infortuni e squalifiche per entrambe le categorie
 - Motore probabilistiche performante e riproducibile, con tempi di simulazione contenuti
 - UX senza attriti: editor scenario semplice
-- Sicurezza e compliance: disclaimer chiaro, gate 18+ per aree sensibili
+- Sicurezza: disclaimer chiaro, gate 18+ per aree sensibili
 - Procesi di revisione: code review, test automatizzati per mantenere qualità e ritmo
 - Timeline: consegna accademica entro 2 mesi, rilasci iterativi con cadenza settimanale
 - Tecnologia vincolata: linguaggio Scala come requisito didattico, con adozione esplicita di programmazione funzionale e pattern idiomatici

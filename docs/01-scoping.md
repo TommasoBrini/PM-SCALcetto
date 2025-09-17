@@ -101,8 +101,7 @@ Subito dopo il team ha analizzato i requisiti e ne ha derivato la Requirements B
 ### Deliverables
 - [POS](allegati/04-POS.md)
 - [RBS](allegati/05-RBS.md)
-- [Risk Analysis](allegati/06-RiskAnalysis.md)
-- [Matrice SWOT](allegati/06-RiskAnalysis.md#SWOT)
+- [Matrice SWOT](allegati/06-SWOT.md)
 
 ## Meeting III
 In data 05/06 si è tenuto il terzo e ultimo meeting di scoping, focalizzato sulla scelta del modello di ciclo di vita e sulla definizione dell’assetto organizzativo per l’esecuzione del progetto sulla base degli esiti del Meeting II.

@@ -24,7 +24,8 @@ export default defineConfig({
                     { text: "Conditions of Satisfaction", link: "/allegati/03-CoS" },
                     { text: "POS", link: "/allegati/04-POS" },
                     { text: "RBS", link: "/allegati/05-RBS" },
-                    { text: "Risk Analysis", link: "/allegati/06-RiskAnalysis" },
+                    { text: "SWOT", link: "/allegati/06-SWOT" },
+                    { text: "Risk Analysis", link: "/allegati/07-RiskAnalysis" },
                 ]
             }    
         ]
