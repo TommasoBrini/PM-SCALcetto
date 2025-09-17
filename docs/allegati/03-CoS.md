@@ -3,5 +3,6 @@
 - Il core dell’applicativo è implementato in Scala adottando principi di programmazione funzionale in modo esplicito
 - E' presente e correttamente integrata una componente scritta in Prolog
 - La release soddisfa una Definition of Done condivisa, con unit test sui moduli core, integrazione automatica e assenza di bug critici noti. 
-- Ambito minimo non negoziabile: simulazione pre‑match per Serie A e Serie B con output 1X2
+- Ambito minimo non negoziabile: simulazione partita di calcio e situazioni di gioco.
+- (**Premium**) Ambito PLUS: integrazione simulazioni Serie A e Serie B.
 - L’esperienza utente risulta semplice, intuitiva e usabile.
