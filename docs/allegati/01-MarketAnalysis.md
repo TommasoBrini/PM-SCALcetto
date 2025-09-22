@@ -32,7 +32,7 @@ Si procede con una breve analisi di mercato a supporto di un'eventuale pubblicaz
     - Scelta migliore in una determinata situazione.
     - Expected goals di squadra dato il modulo, lo stile di gioco e altri parametri di configurazione.
     - (**PREMIUM**) Esiti 1X2 sulla base di moduli e tattiche
-- Database aggiornato su Serie A e B
+- (**PREMIUM**) Database aggiornato su Serie A e B
     - Rose ufficiali Serie A e B, ruoli, storico recente per squadra (stato di forma), infortuni/squalifiche
     - Update settimanali
 - Piani e monetizzazione

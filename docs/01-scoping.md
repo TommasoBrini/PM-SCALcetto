@@ -72,7 +72,7 @@ La proposta progettuale è stata quindi presentata al docente di riferimento, pr
  
 
 ## Meeting II
-In data 02/06 si è tenuto il secondo meeting del progetto, finalizzato a passare alla definizione operativa dello scopemediante la modellazione collaborativa dei requisiti e l’analisi dei rischi a supporto delle decisioni successive.
+In data 02/06 si è tenuto il secondo meeting del progetto, finalizzato a passare alla definizione operativa dello scope mediante la modellazione collaborativa dei requisiti e l’analisi dei rischi a supporto delle decisioni successive.
 La sessione è stata facilitata dal project manager Tommaso Brini, che ha richiamato le decisioni del [Meeting 1](01-scoping#meeting-i), quali scopo condiviso, CoS, indicazioni del docente. 
 I partecipanti hanno lavorato in modalità collaborativa per decomporre il prodotto in funzionalità, costruendo una vista condivisa dei processi chiave da cui è stata derivata la Requirements Breakdown Structure, raccogliendo le informazioni necessari alla successiva fase del progetto. 
 Durante la riunione sono state identificate e discusse le principali incertezze tecniche e organizzative, predisponendo il registro rischi e la matrice SWOT come supporto decisionale.

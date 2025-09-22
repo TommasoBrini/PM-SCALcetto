@@ -5,11 +5,10 @@ A partire dagli obiettivi definiti nel POS, vengono esplosi i requisiti del sist
 1. **Sviluppare un'interfaccia web facilmente utilizzabile, con focus su user experience.**
     <br>  1.1. Mockup delle interfacce utente
     <br>  1.2. Il sistema deve permettere di registrarsi e autenticarsi al sistema.
-    <br>  1.3. Il sistema deve mantenere le informazioni sull'utente riguardo i propri interessi salvati (squadra preferita/modulo ecc..) 
+    <br>  1.3. Il sistema deve mantenere le informazioni sulle preferenza dell'utente (tattica/modulo/stile ecc..) 
     <br>  1.4. Tutorial guidato alla prima simulazione
     <br>  1.5. Schermata unica per selezione match, formazione, modulo e fattore campo.
     <br>  1.6. Accessibilità basilare
-    <br>  1.7. Preferenze utente: salvataggio preset scenario e ultimo contesto aperto
 
 2. **Sviluppare un simulatore che valuti moduli e tattiche in diverse situazioni di gioco, configurando formazione, ruoli e principi.**
     <br> 2.1. Motore di simulazione tattica per fasi di gioco

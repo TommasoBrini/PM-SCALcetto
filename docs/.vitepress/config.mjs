@@ -26,6 +26,10 @@ export default defineConfig({
                     { text: "RBS", link: "/allegati/05-RBS" },
                     { text: "SWOT", link: "/allegati/06-SWOT" },
                     { text: "Risk Analysis", link: "/allegati/07-RiskAnalysis" },
+                    { text: "WBS", link: "/allegati/08-WBS" },
+                    { text: "Stima dei costi", link: "/allegati/09-StimaCosti" },
+                    { text: "PND", link: "/allegati/10-PND" },
+                    { text: "Gantt", link: "/allegati/11-Gantt" },
                 ]
             }    
         ]
