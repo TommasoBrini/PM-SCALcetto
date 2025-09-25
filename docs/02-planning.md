@@ -29,7 +29,7 @@ La prima riunione ha unito kick‑off e prima work session, con il team già coi
 Infine, si è proseguito con la stima dei costi per ciascuna attività decisa nella WBS.
 
 **Allegati**:
-- [RBS](allegati/08-WBS.md)
+- [WBS](allegati/08-WBS.md)
 - [Stima dei costi](allegati/09-StimaCosti.md)
 
 ## Session II
@@ -43,7 +43,7 @@ Infine, si è proseguito con la stima dei costi per ciascuna attività decisa ne
 **Svolgimento**:
 Il team ha definito il calendario di progetto discutendo e formalizzando le dipendenze tra attività; è stato quindi prodotto un Project Network Diagram per visualizzare relazioni e sequenze, a cui è seguito un Gantt Chart per rappresentare la pianificazione nel tempo, con assegnazione delle responsabilità e individuazione delle milestone principali.
 
-Il Gantt è stato realizzato con [YouTrack](https://www.jetbrains.com/youtrack/), sfruttando backlog degli sprint e viste temporali per monitorare avanzamento, carichi e dipendenze.
+Il Gantt è stato realizzato con ***YouTrack***, sfruttando backlog degli sprint e viste temporali per monitorare avanzamento, carichi e dipendenze.
 
 Sono state fissate le date previste per il completamento del progetto e per le principali milestone; per assorbire ritardi o imprevisti è stato previsto un margine (scope bank) pari al 8% della durata totale.
 
@@ -59,5 +59,6 @@ Sono state fissate le date previste per il completamento del progetto e per le p
 
 **Svolgimento**:
 Alla luce della pianificazione e della schedula, il team ha identificato i rischi potenziali che possono influenzare il completamento del progetto, portando alla creazione dell'allegato in questione.
+
 **Allegati**:
 - [Risk Analysis](allegati/07-RiskAnalysis)

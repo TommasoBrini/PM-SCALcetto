@@ -5,7 +5,7 @@ Una breve analisi di mercato ha riscontrato l'esistenza di uno spazio per un sim
 Il perimetro è coerente con i vincoli accademici di tempo e tecnologia, rendendo realistico un rilascio iniziale credibile e utile.
 
 ## Scopo del progetto
-Rilasciare in 2 mesi una prima versione funzionante che consenta di valutare moduli, principi di gioco e varianti tattiche in specifiche situazioni, configurando formazione, ruoli e contesto avversario, con visualizzazioni chiare e interattive.
+Rilasciare in 2 mesi una prima versione funzionante che consenta di valutare moduli, principi di gioco e varianti tattiche in specifiche situazioni, configurando formazione, ruoli e contesto avversario, con visualizzazioni chiare e interattive. Per ogni situazione di gioco, il simulatore aiuta a individuare la giocata/azione che ha più probabilità di raggiungere il proprio obiettivo (fare gol se squadra in attacco, recuperare palla se squadra in difesa). 
 <br>(**Premium**) Simulazione rapida: possibilità di simulare partite di Serie A e di Serie B reali selezionando le squadre dal database aggiornato, con esito 1X2.
 
 ## Obiettivi
