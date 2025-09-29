@@ -43,8 +43,6 @@ Finita la WBS, si è passati alla stima delle attività, calcolando quantità di
 **Svolgimento**:
 Il team ha definito il calendario di progetto discutendo e formalizzando le dipendenze tra attività; è stato quindi prodotto un Project Network Diagram per visualizzare relazioni e sequenze, a cui è seguito un Gantt Chart per rappresentare la pianificazione nel tempo, con assegnazione delle responsabilità e individuazione delle milestone principali.
 
-Il Gantt è stato realizzato con ***YouTrack***, sfruttando backlog degli sprint e viste temporali per monitorare avanzamento, carichi e dipendenze.
-
 Sono state fissate le date previste per il completamento del progetto e per le principali milestone; per assorbire ritardi o imprevisti è stato previsto un margine (scope bank) pari al 8% della durata totale.
 
 **Allegati**:
