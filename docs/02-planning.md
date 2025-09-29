@@ -25,8 +25,8 @@ Considerato che il Project Overview Statement copre in modo sufficiente obiettiv
 - Stima della quantità di lavoro, della durata e delle risorse richieste.
 
 **Svolgimento**:
-La prima riunione ha unito kick‑off e prima work session, con il team già coinvolto fin dalla raccolta dei requisiti e dalla definizione del progetto; l’incontro ha mappato le attività da svolgere e le dipendenze principali. La WBS è stata prodotta come estensione della RBS con approccio top‑down, partendo dagli obiettivi generali e decomponendoli in attività via via più specifiche fino a un livello utile per stimare tempi e risorse. La WBS è stata quindi validata per completezza e coerenza, verificando che tutte le componenti e i requisiti risultassero coperti.
-Infine, si è proseguito con la stima dei costi per ciascuna attività decisa nella WBS.
+La prima riunione ha unito kick‑off e prima work session, con il team già coinvolto fin dalla raccolta dei requisiti e dalla definizione del progetto; l’incontro ha mappato le attività da svolgere e le dipendenze principali. Utilizzando l'approccio *Team Approach* ùè stata prodotta la WBS come estensione della RBS con approccio top‑down, partendo dagli obiettivi generali e decomponendoli in attività via via più specifiche fino a un livello utile per stimare tempi e risorse. La WBS è stata quindi validata per completezza e coerenza, verificando che tutte le componenti e i requisiti risultassero coperti.
+Finita la WBS, si è passati alla stima delle attività, calcolando quantità di lavoro, durata e risorse necessarie per completare ciascun task. Le stime, espresse in ore uomo, sono state condotte in modo iterativo con tecnica **consensus-based** (*Delphi Technique*) fino a convergenza dei valori. La stima finale è stata fissata in modo prudenziale, privilegiando valori conservativi quando opportuno per ridurre il rischio di sottostimare e di contenere la probabilità di ritardo.
 
 **Allegati**:
 - [WBS](allegati/08-WBS.md)
