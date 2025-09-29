@@ -65,6 +65,6 @@ Vengono definite le milestone principali:
 |    43   | Fornire template di report |                2          |      M5     |
 |    44   | Implementare export di risultati |          4          |      M5     |
 |    45   | Scrivere relazione e linee guida |         40          |    42-43-44 |
-|    M5   | **Rilascio**                      |                    |             |
+|    M6   | **Rilascio**                      |                    |             |
 
 ![Project Network Diagram](../resources/PND.png)
