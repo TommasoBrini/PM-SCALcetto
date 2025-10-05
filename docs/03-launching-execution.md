@@ -105,8 +105,6 @@ Durante i Daily SCRUM possono emergere problemi tecnici, ostacoli organizzativi 
 
 Nell'eventualità in cui emergessero nuove esigenze o risultasse necessario modificare l’ambito del progetto, il team applica una procedura strutturata che assicura trasparenza, tracciabilità e controllo su ogni variazione di scope.
 
-Nel caso in cui si rendesse necessario apportare modifiche allo scope del progetto, il team adotta un processo strutturato per gestire i cambiamenti in modo efficace e trasparente il quale prevede le seguenti fasi:
-
 1 - **Segnalazione della richiesta di cambiamento**: Chiunque nel team o tra gli stakeholder può proporre un cambiamento, parlando direttamente con il Project Manager. La richiesta deve includere una descrizione dettagliata della modifica, la motivazione e i benefici attesi.
 
 2 - **Valutazione d’impatto:** Il Project Manager, insieme ai componenti del team di sviluppo interessati, effettua una rapida ma approfondita valutazione su: 
