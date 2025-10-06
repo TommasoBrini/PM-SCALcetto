@@ -2,7 +2,7 @@
 L'obiettivo di questa fase è controllare e monitorare sistematicamente l’avanzamento delle attività per verificare che tempi, costi e obiettivi siano rispettati. Attraverso il monitoraggio è possibile individuare tempestivamente eventuali scostamenti o criticità, intervenendo con azioni correttive per garantire la corretta realizzazione del progetto secondo quanto pianificato.
 
 ## Reporting
-L'adozione del framework SCRUM garantisce al team un flusso costante di informazione grazie a riunioni settimanali strutturati e alla suddivisione degli obiettivi in sprint brevi e misurabili. Questo approccio agevola la trasparenza sull'avanzamento del progetto e il monitoraggio sistematico dei prograssi.
+L'adozione del framework SCRUM garantisce al team un flusso costante di informazione grazie a riunioni settimanali strutturate e alla suddivisione degli obiettivi in sprint brevi e misurabili. Questo approccio agevola la trasparenza sull'avanzamento del progetto e il monitoraggio sistematico dei progressi.
 
 Per il monitoring quotidiano, il team utilizza YouTrack, configurato con board SCRUM e campi su misura per priorità, stato, stime e assegnazioni. Qualsiasi attività, obiettivo o milestone viene tracciata in modo puntuale all'interno di uno sprint, consentendo di avere sempre il quadro aggiornato dei compiti in corso e delle responsabilità.
 

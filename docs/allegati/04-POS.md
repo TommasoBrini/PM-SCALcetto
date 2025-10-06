@@ -27,4 +27,5 @@ Rilasciare in 2 mesi una prima versione funzionante che consenta di valutare mod
 ## Rischi
 - Il team non ha esperienza nella progettazione e sviluppo di progetti in linguaggio Scala e funzionali
 - Il team ha limitata esperienza riguardo l'utilizzo di tecnologie e strumenti per la continuous integration.
- Altri possibili rischi sono trattati meglio nell'allegato [Risk Analysis](07-RiskAnalysis.md)
+ 
+Altri possibili rischi sono trattati meglio nell'allegato [Risk Analysis](07-RiskAnalysis.md)

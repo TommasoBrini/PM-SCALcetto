@@ -26,17 +26,6 @@ avanzamento
 
 Essendo un progetto universitario, Brini ha coperto due ruoli, il Project Manager e il componente del team di sviluppo.
 
-|Attività| Brini <br> (Project Manager)| Brini   | Rattini | Samite |
-|--------| --------------------------- | ------- | ------  | ------ |
-|Studio e Formazione  | A | R | R | R |
-|Avvio del progetto | R | I | I | I |
-| Analisi di mercato | A | I | I | R |
-| Configurazione setup | I | R | C | C |
-| Frontend | A | I | R | S |
-| Implementazione ciclo simulazione | A | R | C | C |
-| Integrazione Prolog | A | I | I | R |
-| Consegna progetto | R | I | I | I |
-
 |Attività                           |  Brini <br> (Project Manager)  |  Brini |  Rattini  |  Samite|
 |-----------------------------------|---------------------------|----------------|-----------|--------|
 |Studio e Formazione                |  A                        |  R             |  R        |  R     |
@@ -82,13 +71,6 @@ Il team adotta un approccio strutturato al problem solving seguendo i 5 passi pr
 Per la gestione delle decisioni, il team si impegna a seguire un approccio ***Participative/Collaborative***. Ogni membro del team partecipa al processo decisionale (decision-making). Tutte le decisioni prese vengono formalizzate e documentate in modo da avere coinvolgimento e trasparenza totale.
 
 ### Team meetings
-Il team adotta il framework SCRUM bla bla bla
-Tipologie di meeting:
-- Daily Status Meetings (Daily SCRUM)
-- Sprint Review (ogni fine sprint)
-- Sprint Planning (ogni inizio sprint)
-
-Dai Daily SCRUM meeting possono emergere problemi o necessità varie, che verranno risolte organizzando riunioni di problem solving o di supporto.
 
 Il team adotta il framework SCRUM per la gestione agile del progetto, organizzando le attività in sprint bisettimanali e garantendo un ciclo di feedback continuo e iterativo.
 
@@ -105,7 +87,7 @@ Durante i Daily SCRUM possono emergere problemi tecnici, ostacoli organizzativi 
 
 Nell'eventualità in cui emergessero nuove esigenze o risultasse necessario modificare l’ambito del progetto, il team applica una procedura strutturata che assicura trasparenza, tracciabilità e controllo su ogni variazione di scope.
 
-1 - **Segnalazione della richiesta di cambiamento**: Chiunque nel team o tra gli stakeholder può proporre un cambiamento, parlando direttamente con il Project Manager. La richiesta deve includere una descrizione dettagliata della modifica, la motivazione e i benefici attesi.
+1 - **Segnalazione della richiesta di cambiamento**: Chiunque nel team può proporre un cambiamento, parlando direttamente con il Project Manager. La richiesta deve includere una descrizione dettagliata della modifica, la motivazione e i benefici attesi.
 
 2 - **Valutazione d’impatto:** Il Project Manager, insieme ai componenti del team di sviluppo interessati, effettua una rapida ma approfondita valutazione su: 
 - Effetti sulla timeline
