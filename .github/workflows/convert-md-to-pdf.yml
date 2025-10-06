@@ -28,6 +28,6 @@ jobs:
 
     - name: Upload PDF artifacts
       uses: actions/upload-artifact@v3
-      wit:h
+      with:
         name: pdf-reports
         path: pdf/
